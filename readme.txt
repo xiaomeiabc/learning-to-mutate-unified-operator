@@ -17,9 +17,9 @@ It contains three main algrithms:
 
 To test the three algorithm, 
 
-First, mex the cec 2017 test function (provided in CECtest_func), it can also be found at 
+First, mex the CEC 2017 test function (provided in CECtest_func), it can also be found at 
 https://github.com/P-N-Suganthan/CEC2017-BoundContrained.git. 
-The procedure please find in the codes_cec2017.rar.
+The procedure can be found in the codes_cec2017.rar. Note that the CEC 2018 test suite is the same as CEC 2017 except for deleting F_2.
 
 Second run the test functions test_UCDE.m or test_UJADE.m or test_ULSHADE.m. 
 
